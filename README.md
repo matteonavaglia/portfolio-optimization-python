@@ -62,6 +62,7 @@ Lo script stampa le statistiche e i confronti a console e mostra i grafici dei p
 - La media dei prezzi è calcolata su titoli in valute diverse (USD ed EUR), quindi ha valore solo descrittivo.
 - Il confronto con l'S&P 500 è riportato nelle statistiche stampate a console, non nei grafici.
 - `GC=F` è una serie continua di future, quindi include i rollover dei contratti.
+- Nel grafico le curve includono anche il ramo inferiore (portafogli inefficienti, sotto il portafoglio a minima varianza): la frontiera efficiente è solo la        parte superiore di ciascuna curva.
 - I dati sono scaricati da Yahoo Finance al momento dell'esecuzione: i risultati possono variare leggermente nel tempo.
 
 ## Autori
