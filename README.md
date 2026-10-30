@@ -51,7 +51,7 @@ pip install numpy pandas yfinance matplotlib scipy
 
 Poi:
 ```
-python analisi_di_portafoglio_matteo_navaglia,_angelica_gemma_minutolo,_fabiana_rotunno.py
+python portfolio_optimization.py
 ```
 
 Lo script stampa le statistiche e i confronti a console e mostra i grafici dei prezzi e delle frontiere efficienti.
