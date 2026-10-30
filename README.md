@@ -4,6 +4,9 @@ Progetto di gruppo sviluppato per l'esame di **Modelli matematici per le scelte 
 ## Cosa fa
 Confronta le performance di un portafoglio multi-asset e dell'S&P 500 (tramite SPY) in due fasi di mercato opposte: la crisi finanziaria 2007-2009 e la ripresa 2013-2016. Per ciascun periodo costruisce la frontiera efficiente di Markowitz, il portafoglio a minima varianza e il portafoglio di tangenza (massimo Sharpe).
 
+## Risultati
+![Confronto delle frontiere efficienti nei due periodi](images/frontiere_efficienti.png)
+
 ## Titoli analizzati
 | Ticker | Descrizione |
 |---|---|
