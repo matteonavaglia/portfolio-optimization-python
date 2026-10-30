@@ -31,7 +31,7 @@ Portafoglio equipesato (BAC, KO, ASML, AIR, oro) a confronto con l'S&P 500 (SPY)
 | | Rendimento medio giornaliero | 0,000440 | 0,000535 |
 | | Varianza dei rendimenti | 0,000069 | 0,000065 |
 
-Nella crisi il portafoglio chiude in positivo mentre l'S&P 500 perde oltre il 15%, con una varianza dei rendimenti simile. Nella ripresa l'S&P 500 fa meglio, con un rischio analogo: il portafoglio diversificato è pensato per proteggere nelle fasi di stress, non per massimizzare il rendimento nei mercati rialzisti. Il ruolo dell'oro e di Coca-Cola come componenti difensive è un'interpretazione di noi autori.
+Nella crisi il portafoglio chiude in positivo mentre l'S&P 500 perde oltre il 15%, con una varianza dei rendimenti simile. Nella ripresa l'S&P 500 fa meglio, con un rischio analogo: il portafoglio diversificato è pensato per proteggere nelle fasi di stress, non per massimizzare il rendimento nei mercati rialzisti. Il ruolo dell'oro e di Coca-Cola come componenti difensive è un’interpretazione degli autori.
 
 ### Portafogli efficienti (long-only, tasso risk-free = 0)
 | | Rendimento | Volatilità | Sharpe |
