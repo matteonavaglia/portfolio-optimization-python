@@ -41,7 +41,7 @@ Nella crisi il portafoglio chiude in positivo mentre l'S&P 500 perde oltre il 15
 | Tangenza, 2007-2009 | 0,155 | 0,180 | 0,860 |
 | Tangenza, 2013-2016 | 0,164 | 0,179 | 0,917 |
 
-![Confronto delle frontiere efficienti nei due periodi](images/frontiere_efficienti.png)
+![Confronto delle frontiere efficienti nei due periodi](frontiere_efficienti.png)
 
 ## Come eseguirlo
 Servono Python 3 e queste librerie:
